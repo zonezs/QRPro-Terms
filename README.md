@@ -1,4 +1,4 @@
-# Terms of service (Aug 27, 2022)
+# Terms of service
 
 Welcome to use our service (Specifically, welcome [users] to use our service). 
 
@@ -65,5 +65,6 @@ The Service we provide is a platform for the acquisition, sharing and disseminat
 If you have questions about this policy or any other related matters, please follow the guidelines that we have provided, fill in your relevant information and send your questions to zonezs123@gmail.com. We will review the relevant issues as soon as possible and respond within thirty days of verifying your user status.
 
 
-Date updated: Aug 2022</br>
+Date updated: Aug 2022
+<br>
 Effective date: Aug 2022
