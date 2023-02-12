@@ -1,5 +1,3 @@
-# Terms of service
-
 Welcome to use our service (Specifically, welcome [users] to use our service). 
 
 Please read the following terms and conditions and make sure you fully understand them. By logging in to the Services, you are deemed to have fully agreed to the terms and conditions of this Agreement, including any modifications we may make to the Usage Agreement. If you disagree with any of the terms of this Agreement, you may choose to terminate your access (or stop using the Services).
